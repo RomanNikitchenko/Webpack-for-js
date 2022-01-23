@@ -1,0 +1,1 @@
+export default 'это module-1';
